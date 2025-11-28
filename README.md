@@ -21,6 +21,6 @@ Proyecto de app web que permite realizar cotización de las criptomonedas más p
 1.- Inicio
 &nbsp;
 <p align="center">
- <img src="images/Home.png" width="500"/>
+ <img src="imagen/Home.png" width="500"/>
 </p>
 
